@@ -44,7 +44,7 @@ I’m a full-stack software engineer with deep experience building high-performa
 <h4 align="left">𝗟𝗲𝘁’𝘀 𝗪𝗼𝗿𝗸 𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿</h4>
 If you're looking for someone who can take your idea and turn it into a production-grade web application—responsive, secure, and fast—I’d love to help. Let’s talk about how we can make your vision real.
 
-<a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">Hire me!</a>
+<a href="https://www.upwork.com/freelancers/~01a75f6d11d410ecec" target="_blank">Hire me!</a>
 
 ###
 
