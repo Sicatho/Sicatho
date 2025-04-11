@@ -21,12 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">About me</h3>
 
 <p align="justify">
-  Highly skilled 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 with over 𝟭𝟯 𝘆𝗲𝗮𝗿𝘀 of experience delivering robust, scalable, and high-performance web applications using modern technologies like React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, and more.
-</p>
-
-<p align="justify">
-I specialize in building responsive, user-friendly front-end interfaces and well-architected secure backend systems that work smoothly together ensuring seamless experiences across all devices and platforms.
-
+I’m a full-stack software engineer with deep experience building high-performance, scalable web applications from the ground up. I specialize in both frontend and backend development, with strong command over modern frameworks, UI libraries, databases, and cloud platforms.
 </p>
 
 
