@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="banner.png" alt="Banner" width="100%" />
 
-<h1 align="left">Hey 👋 What's up? I'm Yasir, a Full Stack Web Developer</h1>
+<h1 align="left">Hey 👋 What's up? I'm Usman, a Full Stack Web Developer</h1>
 
 ###
 
@@ -25,32 +25,24 @@ I’m a full-stack software engineer with deep experience building high-performa
 </p>
 
 
-<h4 align="left">𝗧𝗲𝗰𝗵 𝗧𝗵𝗮𝘁 𝗙𝘂𝗲𝗹𝘀 𝗠𝘆 𝗕𝘂𝗶𝗹𝗱𝘀</h4>
-✔️ Front-end: React, Next.js, Angular<br />
-✔️ UI Frameworks: Tailwind, Shadcn UI, Material UI, Antd, Bootstrap<br />
-✔️ Languages: JavaScript, TypeScript, Python<br />
-✔️ Back-end: Node.js, ExpressJS, NestJS, FastAPI<br />
-✔️ Databases: MongoDB, PostgreSQL, Supabase, Microsoft SQL<br />
-✔️ ORMs: Prisma, TypeORM<br />
-✔️ DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker<br />
-✔️ Cloud: AWS, Google Cloud, Azure, Heroku, Vercel<br />
-✔️ Architectures: Monoliths, Microservices, Micro-frontends<br />
+<h4 align="left">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀</h4>
+🔹 Frontend: HTML5, CSS, Tailwind, MUI, Shadcn, AntD, Bootstrap, Styled Components, Emotion<br />
+🔹 Frameworks: React.js, Next.js, Angular, Redux, React Query, Formik, Zod, NgRx<br />
+🔹 Backend: Node.js, Express, NestJS, Python (FastAPI), REST APIs, Monolith & Microservices<br />
+🔹 Databases: PostgreSQL, MongoDB, MS SQL Server, Supabase<br />
+🔹 DevOps: GitHub, GitLab, Bitbucket, CI/CD, Docker, Kubernetes<br />
+🔹 Cloud: AWS, GCP, Azure, Vercel, Heroku
 
-<h4 align="left">𝗪𝗵𝘆 𝗖𝗹𝗶𝗲𝗻𝘁𝘀 𝗟𝗼𝘃𝗲 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗠𝗲</h4>
-✔️ Pro at building high-performing, visually stunning, and user-first web platforms<br />
-✔️ Clean, maintainable code that follows best practices<br />
-✔️ Prioritize performance, scalability, and security at every step<br />
-✔️ Seamless API & third-party integrations<br />
-✔️ Fast turnarounds with minimal downtime<br />
-✔️ Strong communicator and reliable team player<br />
+<h4 align="left">𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲</h4>
+✔ Pixel-perfect UI implementation based on Figma or custom designs<br />
+✔ Advanced optimization techniques (hydration, lazy loading, code splitting) for blazing-fast apps<br />
+✔ Secure, well-structured APIs using REST, microservices, or monolithic architectures<br />
+✔ Clean, scalable codebase following best practices and design patterns<br />
+✔ On-page SEO expertise for better visibility and faster loads<br />
+✔ Full-cycle delivery: from architecture and development to deployment and monitoring
 
-<h4 align="left">𝗘𝘅𝗽𝗲𝗰𝘁 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 𝗹𝗶𝗸𝗲</h4>
-⚡ Snappy, beautiful, and secure front-end interfaces<br />
-🛠️ Rock-solid back-end systems that scale with your business<br />
-📦 Full-stack solutions built with future growth in mind<br />
-
-<h4 align="left">𝗪𝗵𝗮𝘁'𝘀 𝗧𝗵𝗲 𝗡𝗲𝘅𝘁 𝗦𝘁𝗲𝗽?</h4>
-Send me an invite or hire me directly — I’m here to turn your vision into a reliable, production-ready product.
+<h4 align="left">𝗟𝗲𝘁’𝘀 𝗪𝗼𝗿𝗸 𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿</h4>
+If you're looking for someone who can take your idea and turn it into a production-grade web application—responsive, secure, and fast—I’d love to help. Let’s talk about how we can make your vision real.
 
 <a href="https://www.upwork.com/freelancers/yasirbuland" target="_blank">Hire me!</a>
 
